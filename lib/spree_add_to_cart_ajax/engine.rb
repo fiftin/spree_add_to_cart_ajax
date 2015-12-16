@@ -1,6 +1,7 @@
 module SpreeAddToCartAjax
   class Engine < Rails::Engine
     require 'spree/core'
+    require 'jquery-form-rails'
     isolate_namespace Spree
     engine_name 'spree_add_to_cart_ajax'
 
