@@ -1,0 +1,13 @@
+/*
+Placeholder manifest file.
+the installer will append this file to the app vendored assets here: 'vendor/assets/stylesheets/spree/frontend/all.css'
+*/
+.add_to_cart_products__panel {
+    position: relative;
+    background-color: #f5f5f5;
+    padding: 0px 15px 10px 15px;
+    min-height: 48px;
+    text-align: center;
+    border-bottom-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+}
