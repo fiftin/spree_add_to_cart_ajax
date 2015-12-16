@@ -35,5 +35,3 @@ Simply add this require statement to your spec_helper:
 ```ruby
 require 'spree_add_to_cart_ajax/factories'
 ```
-
-Copyright (c) 2015 [name of extension creator], released under the New BSD License
