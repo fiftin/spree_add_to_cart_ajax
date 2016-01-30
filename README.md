@@ -12,7 +12,7 @@ Installation
 Add spree_add_to_cart_ajax to your Gemfile:
 
 ```ruby
-gem 'spree_add_to_cart_ajax'
+gem 'spree_add_to_cart_ajax', github: 'fiftin/spree_add_to_cart_ajax'
 ```
 
 Bundle your dependencies and run the installation generator:
