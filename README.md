@@ -6,6 +6,8 @@ spree_add_to_cart_ajax extension
 
 Demo: https://spreecommerce-demo.herokuapp.com/
 
+<img src="https://cloud.githubusercontent.com/assets/914224/12694844/1e0b73e6-c764-11e5-8836-d8c2d49a797c.png" />
+
 Installation
 ------------
 
