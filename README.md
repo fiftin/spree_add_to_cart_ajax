@@ -4,7 +4,7 @@ spree_add_to_cart_ajax extension
 * Adds button 'Add to cart' for each product on Products list page.
 * Puts product to cart over AJAX without overloading a page.
 
-Demo: https://spreecommerce-demo.herokuapp.com/
+Demo: [https://spreecommerce-demo.herokuapp.com](https://spreecommerce-demo.herokuapp.com)
 
 <img src="https://cloud.githubusercontent.com/assets/914224/12694844/1e0b73e6-c764-11e5-8836-d8c2d49a797c.png" />
 
